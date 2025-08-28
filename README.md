@@ -82,6 +82,8 @@ SHAP analysis validated clinical knowledge: Glucose, BMI, and Age are key risk f
 
 This project demonstrates how Explainable AI can make healthcare predictions more interpretable and reliable.
 
+Streamlit App: https://diabetes-prediction-project-4axy6a3xsipcojjjg87bvx.streamlit.app/
+
 📌 Future Work
 
 Try deep learning models (Neural Networks).
